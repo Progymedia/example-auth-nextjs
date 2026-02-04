@@ -137,4 +137,6 @@ export const ZITADEL_SCOPES = [
    * Security: Grants administrative access - requires elevated privileges
    */
   // 'urn:zitadel:iam:org:project:id:zitadel:aud',
+
+  'urn:zitadel:iam:org:id:356673417786688160'
 ].join(' ');

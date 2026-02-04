@@ -189,6 +189,7 @@ declare module 'next-auth/jwt' {
  * - **jwt**: Manages token storage and refresh logic
  * - **session**: Shapes what data is available to your app
  */
+
 export const authOptions: NextAuthOptions = {
   providers: [
     ZitadelProvider({
